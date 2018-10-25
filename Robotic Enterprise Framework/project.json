@@ -1,0 +1,14 @@
+{
+  "name": "Robotic Enterprise Framework",
+  "description": "Robotic Enterprise Framework",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.4.0",
+  "projectVersion": "1.0.6781.19381",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
